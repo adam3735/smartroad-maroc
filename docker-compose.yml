@@ -1,0 +1,9 @@
+services:
+  backend:
+    build: .
+    container_name: smartroad_maroc_api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models

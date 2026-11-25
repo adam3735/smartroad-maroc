@@ -1,0 +1,6 @@
+Modele,MAE,RMSE
+Arbre_Decision_Reg,4734.62,6761.27
+KNN_Regressor,5150.81,7849.44
+Random_Forest_Reg,5492.86,8468.78
+Regression_Lineaire,6836.93,8619.15
+SVR_RBF,46672.97,47631.14

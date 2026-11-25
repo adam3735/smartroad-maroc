@@ -1,0 +1,6 @@
+Modele,Accuracy,F1_Score
+Regression_Logistique,1.0,1.0
+KNN_Classifier,1.0,1.0
+Random_Forest_Clf,1.0,1.0
+SVM_RBF,1.0,1.0
+Arbre_Decision_Clf,0.75,0.75
