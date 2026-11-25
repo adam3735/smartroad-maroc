@@ -114,3 +114,11 @@ smartroad-maroc/
 
 - **Granularité** : Les fichiers publics NARSA (2021-2024) fournissent des bilans nationaux annuels agrégés par milieu (Agglomération / Hors agglomération), sans découpage régional ni coordonnées GPS.
 - **Projections** : Les estimations 2025+ issues de la régression linéaire constituent des projections macroscopiques indicatives.
+
+---
+
+## Contributeurs
+
+- [@adam3735](https://github.com/adam3735) (Backend FastAPI, Machine Learning, Frontend Web)
+- [@AmjadAAYD](https://github.com/AmjadAAYD) (Application Android Kotlin / Jetpack Compose, Documentation)
+
