@@ -9,8 +9,8 @@ import {
   ArrowRight, Download, ShieldCheck
 } from 'lucide-react';
 import './App.css';
+const API_URL = '[http://127.0.0.1:8000](http://127.0.0.1:8000)';
 
-const API_URL = 'http://127.0.0.1:8000';
 
 function DrapeauMaroc({ width = 34, height = 22 }) {
   return (
